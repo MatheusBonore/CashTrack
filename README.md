@@ -55,3 +55,68 @@ better organization of your personal budget.
 ## 📝 License
 
 This project is licensed under the **MatheusBonore**. Feel free to contribute! 🚀
+
+## Commands
+```bash
+npm run build
+```
+
+```bash
+npm run dev
+```
+
+```bash
+php artisan serve
+```
+
+```bash
+php artisan storage:link
+```
+
+```bash
+php artisan make:model ['NAME'] --migration
+```
+
+```bash
+php artisan make:controller ['NAME']Controller --api
+```
+
+```bash
+php artisan route:list
+```
+
+```bash
+php artisan route:cache
+```
+
+```bash
+php artisan route:clear
+```
+
+```bash
+php artisan list
+```
+
+```bash
+php artisan make:migration create_['NAME']_table
+```
+
+```bash
+php artisan migrate
+```
+
+```bash
+php artisan migrate:fresh --seed
+```
+
+```bash
+php artisan optimize:clear
+```
+
+```bash
+php artisan migrate:fresh
+```
+
+```bash
+composer dump-autoload
+```
